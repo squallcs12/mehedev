@@ -2273,7 +2273,7 @@ i.pull-left.icon-default-light {
   color: #ffffff;
 }
 #preloader {
-  background: #fffffb url('img/preloader.gif') no-repeat scroll center center;
+  background: #fffffb url('img/logo-full.png') no-repeat scroll center center;
   height: 100%;
   left: 0;
   overflow: visible;
